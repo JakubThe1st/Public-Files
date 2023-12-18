@@ -1,4 +1,4 @@
-Hi  Hello!
+Hi	Hello!
 How are you?	I'm good!
 What's your name?	I'm a language model.
 Tell me a joke	Why did the chicken cross the road? To get to the other side!
